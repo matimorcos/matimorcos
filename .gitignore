@@ -1,5 +1,6 @@
 *.db
-assets/external/
+#assets/external/
+#assets/
 *.py[cod]
 .web
 __pycache__/
