@@ -11,13 +11,41 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :school: I am a `Junior` at .
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: 
-- :student: I’m currently learning 
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://).
-- :boom: You can visit [MY WEBSITE](https://).
+- :technologist: Designing, developing, and deploying customized technological
+solutions across various sectors is part of my daily routine. Every day, I
+encounter `problems` to solve, and I enjoy creating practical and
+innovative solutions focused on the needs of users and consumers.
+- :student: Santander Open Academy 
+E-Commerce and Commercial Management (2024),
+Business English I and II (2024),
+Project Management and Agile Methodologies (2024),
+Python (2024)
+- :student: TodoCode Academy
+HTML and CSS (2024), 
+Git and GitHub (2024),
+Algorithms and Programming (2024).
+- :student: Udemy
+Full-Stack Development (2024),
+UX/UI Design with Figma (2023)
+- :student: Coderhouse
+Python (2024),
+Data Analytics (2024),
+Tableau (2024),
+UX/UI Design (2024),
+Data Processing in Excel (2023)
+- :student: Siglo 21 Business University
+Diploma in Politics, Society, and Environment (2019),
+Law Degree (2019),
+Paralegal Degree (2017).
+- :student: Catholic University of Salta
+Crisis Communication and Management (2022).
+- :student: Jean Piaget College
+Diploma of Education, Psychology, Sociology, and Penitentiary Law (2019).
+- :student: National University of Salta
+Diploma of Education, Penal System (2019).
+- :student: Association of Lawyers of Salta
+Diploma of Education, Law (2018).
+- :boom: I’m currently open for a new `job opportunity`! This is my <a href="resume_wd.pdf" download>[MY RESUME].
 
 <br>
 
@@ -41,6 +69,11 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+  &emsp;
+   <a href="https://www.mysql.com" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%4479A1.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+  &emsp;
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
@@ -73,11 +106,11 @@
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-    &emsp;
     <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+    <a href="https://www.sqlalchemy.org" target="_blank">
+    <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy%20-%D71F00.svg?style=plastic&logo=sqlalchemy&logoColor=white">
+  </a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
@@ -114,9 +147,3 @@
 </details>
 
 </br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/matimorcos/matimorcos/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
