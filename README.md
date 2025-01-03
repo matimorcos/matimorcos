@@ -141,6 +141,9 @@ innovative solutions focused on the needs of users and consumers.
 	<a href="https://github.com/matimorcos/mufa365">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=matimorcos&repo=mufa365&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+  <a href="https://github.com/matimorcos/django-ums-booking-app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=matimorcos&repo=mufa365&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
   </p>
 </div>
 </details>
