@@ -144,6 +144,9 @@ innovative solutions focused on the needs of users and consumers.
   <a href="https://github.com/matimorcos/django-ums-booking-app">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=matimorcos&repo=django-ums-booking-app&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+  <a href="https://github.com/matimorcos/fastapi-builder-grades-app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=matimorcos&repo=fastapi-builder-grades-app&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
   </p>
 </div>
 </details>
