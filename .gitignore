@@ -14,7 +14,7 @@ backend.zip
 frontend.zip
 /_next
 /404
-/assets
+#/assets
 /portfolio
 __init__.py
 next.config.js
