@@ -9,41 +9,42 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :technologist: Designing, developing, and deploying customized technological
+##### :technologist: Let's see
+- Designing, developing, and deploying customized technological
 solutions across various sectors is part of my daily routine. Every day, I
 encounter `problems` to solve, and I enjoy creating practical and
 innovative solutions focused on the needs of users and consumers.
-- :student: Santander Open Academy 
-E-Commerce and Commercial Management (2024),
-Business English I and II (2024),
-Project Management and Agile Methodologies (2024),
-Python (2024)
-- :student: TodoCode Academy
-HTML and CSS (2024), 
-Git and GitHub (2024),
-Algorithms and Programming (2024).
-- :student: Udemy
-Full-Stack Development (2024),
-UX/UI Design with Figma (2023)
-- :student: Coderhouse
-Python (2024),
-Data Analytics (2024),
-Tableau (2024),
-UX/UI Design (2024),
-Data Processing in Excel (2023)
-- :student: Siglo 21 Business University
-Diploma in Politics, Society, and Environment (2019),
-Law Degree (2019),
-Paralegal Degree (2017).
-- :student: Catholic University of Salta
-Crisis Communication and Management (2022).
-- :student: Jean Piaget College
-Diploma of Education, Psychology, Sociology, and Penitentiary Law (2019).
-- :student: National University of Salta
-Diploma of Education, Penal System (2019).
-- :student: Association of Lawyers of Salta
-Diploma of Education, Law (2018).
-- :boom: I’m currently open for a new `job opportunity`! This is my <a href="resume_wd.pdf" download>[MY RESUME].
+##### :student: Santander Open Academy 
+- E-Commerce and Commercial Management (2024)
+- Business English I and II (2024)
+- Project Management and Agile Methodologies (2024)
+- Python (2024)
+#####  :student: TodoCode Academy
+- HTML and CSS (2024)
+- Git and GitHub (2024)
+- Algorithms and Programming (2024)
+#####  :student: Udemy
+- Full-Stack Development (2024)
+- UX/UI Design with Figma (2023)
+#####  :student: Coderhouse
+- Python (2024)
+- Data Analytics (2024)
+- Tableau (2024)
+- UX/UI Design (2024)
+- Data Processing in Excel (2023)
+#####  :student: Siglo 21 Business University
+- Diploma in Politics, Society, and Environment (2019)
+- Law Degree (2019)
+- Paralegal Degree (2017)
+#####  :student: Catholic University of Salta
+- Crisis Communication and Management (2022)
+#####  :student: Jean Piaget College
+- Diploma of Education, Psychology, Sociology, and Penitentiary Law (2019)
+#####  :student: National University of Salta
+- Diploma of Education, Penal System (2019)
+#####  :student: Association of Lawyers of Salta
+- Diploma of Education, Law (2018)
+###### :boom: I’m currently open for a new `job opportunity`! This is my <a href="resume_wd.pdf" download>[MY RESUME].
 
 <br>
 
