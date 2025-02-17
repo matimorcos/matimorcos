@@ -14,6 +14,8 @@
 solutions across various sectors is part of my daily routine. Every day, I
 encounter `problems` to solve, and I enjoy creating practical and
 innovative solutions focused on the needs of users and consumers.
+##### :student: Cisco Networking Academy 
+- Python Essentials I (2025)
 ##### :student: Santander Open Academy 
 - E-Commerce and Commercial Management (2024)
 - Business English I and II (2024)
