@@ -10,12 +10,11 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 ##### :technologist: Let's see
-- Designing, developing, and deploying customized technological
-solutions across various sectors is part of my daily routine. Every day, I
-encounter `problems` to solve, and I enjoy creating practical and
-innovative solutions focused on the needs of users and consumers.
+- I'm Matias Morcos, a backend developer from Argentina with experience in Python, FastAPI, Django and Flask, specialized in API integrations, multichannel/omnichannel systems, and chatbot development. Strong focus on scalability, automation, and cloud deployment (GCP). Passionate about building solutions that efficiently connect platforms, users, and services.
+
 ##### :student: Cisco Networking Academy 
 - Python Essentials I (2025)
+- Python Essentials II (2025)
 ##### :student: Santander Open Academy 
 - E-Commerce and Commercial Management (2024)
 - Business English I and II (2024)
