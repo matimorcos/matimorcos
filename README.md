@@ -143,7 +143,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=matimorcos&repo=django-ums-booking-app&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   <a href="https://github.com/matimorcos/student-grading-sys">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=matimorcos&repo=studing-grading-sys&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=matimorcos&repo=student-grading-sys&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   <a href="https://github.com/matimorcos/ichiel-software-venture-ums">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=matimorcos&repo=ichiel-software-venture-ums&theme=tokyonight" alt="GitHub Stats" />
